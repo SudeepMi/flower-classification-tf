@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment and editor files
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# ML artifacts and runtime outputs
+*.h5
+*.keras
+logs/
